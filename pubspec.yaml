@@ -1,0 +1,5 @@
+name: fig_logger
+description: A super minimal Dart logger wrapper we use internally. Nothing fancy.
+version: 0.0.1
+environment:
+  sdk: '>=2.17.0 <4.0.0'
