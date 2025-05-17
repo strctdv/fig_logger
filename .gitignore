@@ -1,3 +1,4 @@
+bump-version.sh
 .DS_Store
 .dart_tool/
 .packages
